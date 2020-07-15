@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.E. in Automation, University of Science and Technology of China (USTC), 2017
+* Ph.D in Systems Science, Academy of Mathematics and Systems Science, Chinese Academy of Sciences, 2022 (expected)
 
 Work experience
 ======

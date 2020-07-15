@@ -16,10 +16,10 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Sep. 2018: Research Assistant
+  * The Key Laboratory of Systems and Control, Chinese Academy of Sciences, China
+  * Computational and Systems Biology
+  * Supervisor: Professor Lin Wan, Professor Yiguang Hong
 
 * Fall 2015: Research Assistant
   * Github University

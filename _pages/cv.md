@@ -45,7 +45,7 @@ Conference Presentations
 ======
 * The 28th Conference on Intelligent Systems for Molecular Biology (ISMB), Jul. 2020
   * Title: Unsupervised Topological Alignment for Single-Cell Multi-Omics Integration
-*  The 38th Chinese Control Conference (CCC), Wuhan, China, Jul. 2019
+* The 38th Chinese Control Conference (CCC), Wuhan, China, Jul. 2019
   * Title: Image Colorization by Stacked Autoencoder and U-Net
 * The 36th Chinese Control Conference (CCC), Dalian, China, Jul. 2017
   * Title: Continuous-time Distributed Algorithms for Solving Linear Algebraic Equation

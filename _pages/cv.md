@@ -28,6 +28,7 @@ Work experience
 Honors & Awards
 ======
 * 2020  &nbsp; &nbsp; Merit Student of University of Chinese Academy of Sciences
+* 2019  &nbsp; &nbsp; First prize of Huawei Code Craft 2019 in Beijing, Tianjin and Northeast China divisions
 * 2016  &nbsp; &nbsp; National Encouragement Scholarship of China, USTC
 * 2016 &nbsp; &nbsp; Outstanding Undergraduate Research Program Award, USTC
 * 2013-2014 &nbsp;  Individual Scholarship of USTC (2 times)

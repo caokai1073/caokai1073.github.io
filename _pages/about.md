@@ -8,15 +8,6 @@ redirect_from:
   - /about.html
 ---
 
----
-layout: archive
-title: "CV"
-permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
----
-
 {% include base_path %}
 
 I am a PhD student at the [Key Laboratory of Systems and Control](http://lsc.amss.cas.cn) of the Academy of Mathematics and Systems Science, Chinese Academy of Sciences. I received my B.E. in Automation from University of Science and Technology of China in 2017.

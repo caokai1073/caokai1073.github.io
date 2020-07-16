@@ -19,49 +19,9 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.E. in Automation, University of Science and Technology of China (USTC), 2017
-* Ph.D in Systems Science, Academy of Mathematics and Systems Science, Chinese Academy of Sciences, 2022 (expected)
+I am a PhD student at the [Key Laboratory of Systems and Control](http://lsc.amss.cas.cn) of the Academy of Mathematics and Systems Science, Chinese Academy of Sciences. I received my B.E. in Automation from University of Science and Technology of China in 2017.
 
-Work experience
-======
-* Sep. 2018 - now
-  * Research Assistant, in Computational and Systems Biology
-  * The Key Laboratory of Systems and Control, Chinese Academy of Sciences, China
-  * Supervisor: Professor Lin Wan, Professor Yiguang Hong
-
-* Jun.2016 - Sep. 2016
-  * Visiting Researcher, in Robot Control Research
-  * School of Electrical Engineering and Computing, University of Newcastle, Australia
-  * Supervisor: Professor Zhiyong Chen
-  
-Honors & Awards
-======
-* 2020  &nbsp; &nbsp; Merit Student of University of Chinese Academy of Sciences
-* 2016  &nbsp; &nbsp; National Encouragement Scholarship of China, USTC
-* 2016 &nbsp; &nbsp; Outstanding Undergraduate Research Program Award, USTC
-* 2013-2014 &nbsp;  Individual Scholarship of USTC (2 times)
-  
-Membership
-======
-* 2020 - now
-  * Student member of ISCB (International Society for Computational Biology) 
-  Interest in Communities of Special Interest: MLCSB: Machine Learning in Computational and Systems Biology 
-* 2019 - now
-  *  Member of China Society for Industrial and Applied Mathematics (CSIAM)
-  
-Conference Presentations
-======
-* The 28th Conference on Intelligent Systems for Molecular Biology (ISMB), Jul. 2020
-  * Title: Unsupervised Topological Alignment for Single-Cell Multi-Omics Integration
-* The 38th Chinese Control Conference (CCC), Wuhan, China, Jul. 2019
-  * Title: Image Colorization by Stacked Autoencoder and U-Net
-* The 36th Chinese Control Conference (CCC), Dalian, China, Jul. 2017
-  * Title: Continuous-time Distributed Algorithms for Solving Linear Algebraic Equation
-
-Language & Skills
-======
-* Language: Mandarin, English
-* Software: Experienced in Python, MATLAB, R, Linux and Latex.
+My research is at the interface between machine learning and computational biology. My primary research interest lies in developing new computational algorithms for the study of large-scale genomic data, especially related to the single-cell sequencing data. The specific topics I have examined include:
+* Computational method development for integration of single-cell multi-omics datasets
+* High-performance transfer learning algorithm development for large-scale single-cell sequencing data
 

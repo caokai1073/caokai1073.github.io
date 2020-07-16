@@ -20,7 +20,6 @@ author_profile: true
 X. Zeng, **<u>K. Cao</u>**
 *Kybernetika*, 803–819 (2017), doi:10.14736/kyb-2017-5-0803.
   <br>
-* [Continuous-time distributed algorithms for solving linear algebraic <br>
-equation](https://ieeexplore.ieee.org/document/8028633)
+* [Continuous-time distributed algorithms for solving linear algebraic equation](https://ieeexplore.ieee.org/document/8028633)<br>
 **<u>K. Cao</u>**, X. Zeng, Y. Hong
 Proceeding of the *36th Chinese Control Conference (CCC)* 8068–8073 (IEEE, 2017), doi:10.23919/ChiCC.2017.8028633.

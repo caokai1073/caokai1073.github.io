@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kai Cao"
+title                    : "Kai Cao (曹凯)"
 title_separator          : "-"
-name                     : &name "Kai Cao"
+name                     : &name "Kai Cao (曹凯)"
 description              : &description "personal description"
 url                      : https://caokai1073.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kai Cao"
+  name             : " Kai Cao (曹凯)"
   avatar           : "profile.png"
   bio              : "PhD student at Academy of Mathematics and Systems Sciences, Chinese Academy of Sciences"
   location         : "Beijing, China"

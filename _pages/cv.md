@@ -22,7 +22,7 @@ Work experience
 
 * Jun.2016 - Sep. 2016
   * Visiting Researcher, in Robot Control Research
-  * School of Electrical Engineering and Computing, University of Newcastle, Australia
+  * Department of Electrical and Computer Engineering, University of Newcastle, Australia
   * Supervisor: Professor Zhiyong Chen
   
 Honors & Awards

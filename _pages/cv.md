@@ -13,7 +13,7 @@ Education
 * B.E. in Automation, University of Science and Technology of China (USTC), 2017
 * Ph.D in Systems Science, Academy of Mathematics and Systems Science, Chinese Academy of Sciences, 2022 (expected)
 
-Work experience
+Research experience
 ======
 * Sep. 2018 - now
   * Research Assistant, in Computational and Systems Biology

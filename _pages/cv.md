@@ -49,8 +49,3 @@ Conference Presentations
   * Title: Image Colorization by Stacked Autoencoder and U-Net
 * The 36th Chinese Control Conference (CCC), Dalian, China, Jul. 2017
   * Title: Continuous-time Distributed Algorithms for Solving Linear Algebraic Equation
-
-Language & Skills
-======
-* Language: Mandarin, English
-* Software: Experienced in Python, MATLAB, R, Linux and Latex.

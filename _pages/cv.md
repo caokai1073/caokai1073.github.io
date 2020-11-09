@@ -41,8 +41,8 @@ redirect_from:
 * 2019 - now
   *  Member of China Society for Industrial and Applied Mathematics (CSIAM)
   
-Conference Presentations
-======
+## Conference Presentations
+
 * The 28th Conference on Intelligent Systems for Molecular Biology (ISMB), Jul. 2020
   * Title: Unsupervised Topological Alignment for Single-Cell Multi-Omics Integration
 * The 38th Chinese Control Conference (CCC), Wuhan, China, Jul. 2019

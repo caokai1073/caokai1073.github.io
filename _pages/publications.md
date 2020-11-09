@@ -9,7 +9,7 @@ author_profile: true
 ### Preprints
 * [Manifold alignment for heterogeneous single-cell multi-omics data integration using Pamona](https://www.biorxiv.org/content/10.1101/2020.11.03.366146v1)<br>
 **<u>K. Cao</u>**, Y. Hong, L. Wan. *bioRxiv*, doi: 10.1101/2020.11.03.366146.
-  <br>
+
 ### Articles
 * [Learning implicit information in Bayesian games with knowledge transfer](https://link.springer.com/article/10.1007/s11768-020-0086-2)<br>
 G. Chen, **<u>K. Cao</u>**, Y. Hong. *Control Theory and Technology*, doi: 10.1007/s11768-020-0086-2.

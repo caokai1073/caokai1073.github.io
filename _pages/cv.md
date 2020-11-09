@@ -8,13 +8,13 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+## Education
+
 * B.E. in Automation, University of Science and Technology of China (USTC), 2017
 * Ph.D in Systems Science, Academy of Mathematics and Systems Science, Chinese Academy of Sciences, 2022 (expected)
 
-Research experience
-======
+## Research experience
+
 * Sep. 2018 - now
   * Research Assistant, in Computational and Systems Biology
   * The Key Laboratory of Systems and Control, Chinese Academy of Sciences, China
@@ -25,16 +25,16 @@ Research experience
   * Department of Electrical and Computer Engineering, University of Newcastle, Australia
   * Supervisor: Professor Zhiyong Chen
   
-Honors & Awards
-======
+## Honors & Awards
+
 * 2020  &nbsp; &nbsp; Merit Student of University of Chinese Academy of Sciences
 * 2019  &nbsp; &nbsp; First prize of Huawei Code Craft 2019 in Beijing, Tianjin and Northeast China divisions
 * 2016  &nbsp; &nbsp; National Encouragement Scholarship of China, USTC
 * 2016 &nbsp; &nbsp; Outstanding Undergraduate Research Program Award, USTC
 * 2013-2014 &nbsp;  Individual Scholarship of USTC (2 times)
   
-Membership
-======
+## Membership
+
 * 2020 - now
   * Student member of ISCB (International Society for Computational Biology) 
   Interest in Communities of Special Interest: MLCSB: Machine Learning in Computational and Systems Biology 

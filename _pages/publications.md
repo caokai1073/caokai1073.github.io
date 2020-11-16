@@ -15,8 +15,7 @@ G. Chen, **<u>K. Cao</u>**, Y. Hong. *Control Theory and Technology*, doi: 10.10
   <br>
 * [Unsupervised Topological Alignment for Single-Cell Multi-Omics Integration](https://academic.oup.com/bioinformatics/article/36/Supplement_1/i48/5870490)<br>
 **<u>K. Cao</u>**, X. Bai, Y. Hong, L. Wan. *bioRxiv*, doi: 10.1101/666271.<br>
-*Bioinformatics*, 36(11):3299-3306; doi: 10.1093/bioinformatics/btaa172.<br>
-(ISMB 2020)
+*Bioinformatics*, 36(11):3299-3306; doi: 10.1093/bioinformatics/btaa172. (ISMB 2020) <br>
   <br>
 * [Class conditional distribution alignment for domain adaptation](https://link.springer.com/article/10.1007/s11768-020-9126-1)<br>
 **<u>K. Cao</u>**, Z. Tu, Y. Ming. *Control Theory and Technology*, 18, 72–80 (2020), doi: 10.1007/s11768-020-9126-1.

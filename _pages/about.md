@@ -16,5 +16,5 @@ My research is at the interface between machine learning and computational biolo
 * Computational method development for integration of single-cell multi-omics datasets
 * High-performance transfer learning algorithm development for single-cell sequencing data
 
-Latest paper:
+Latest paper: <br>
 [Manifold alignment for heterogeneous single-cell multi-omics data integration using Pamona](https://www.biorxiv.org/content/10.1101/2020.11.03.366146v1)<br>

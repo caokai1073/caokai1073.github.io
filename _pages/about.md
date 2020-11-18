@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-I am a PhD student at the [Key Laboratory of Systems and Control](http://lsc.amss.cas.cn) of the Academy of Mathematics and Systems Science, Chinese Academy of Sciences. I received my B.E. in Automation from [University of Science and Technology of China](https://www.ustc.edu.cn/) in 2017.
+I am a PhD student at the Key Laboratory of Systems and Control of the Academy of Mathematics and Systems Science, **Chinese Academy of Sciences**. I received my B.E. in Automation from **University of Science and Technology of China** in 2017.
 
 My research is at the interface between machine learning and computational biology. My primary research interest lies in developing new computational algorithms for the study of large-scale genomic data, especially related to the single-cell sequencing data. My current research focuses on:
 * Computational method development for integration of single-cell multi-omics datasets

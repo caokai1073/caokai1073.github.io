@@ -13,7 +13,7 @@ author_profile: true
 
 ## Articles
 * [Learning implicit information in Bayesian games with knowledge transfer](https://link.springer.com/article/10.1007/s11768-020-0086-2)<br>
-G. Chen, **<u>K. Cao</u>**, Y. Hong. *Control Theory and Technology*, 18, pages315–323(2020).
+G. Chen, **<u>K. Cao</u>**, Y. Hong. *Control Theory and Technology*, 18, 315–323(2020).
   <br>
 * [Unsupervised Topological Alignment for Single-Cell Multi-Omics Integration](https://academic.oup.com/bioinformatics/article/36/Supplement_1/i48/5870490)<br>
 **<u>K. Cao</u>**, X. Bai, Y. Hong, L. Wan. *Bioinformatics*, 36 (Supplement_1), i48–i56. (ISMB 2020)

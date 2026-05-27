@@ -40,16 +40,16 @@ education:
   position: B.E. in Automation, School of Information Science and Technology
   date: Sep. 2013 - Jul. 2017
 
-# experience:
-# - name: Broad Institute of MIT and Harvard, United States
-#   logo: /assets/images/badges/PKU_red.png
-#   position: Postdoctoral Researcher
-#   date: Nov. 2022 - Present
+experience:
+- name: Broad Institute of MIT and Harvard, United States
+  logo: /assets/images/badges/Broad_logo.png
+  position: Postdoctoral Researcher
+  date: Nov. 2022 - Present
 
-# - name: University of Newcastle, Australia
-#   logo: /assets/images/badges/PKU_red.png
-#   position: Visiting Student
-#   date: June 2016 - Sep. 2016
+- name: University of Newcastle, Australia
+  logo: /assets/images/badges/newcastle_logo.png
+  position: Visiting Student
+  date: June 2016 - Sep. 2016
 
 awards:
 - name: Award Name 2

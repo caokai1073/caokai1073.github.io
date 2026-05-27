@@ -1,0 +1,16 @@
+---
+title: "CPS: Mapping Physical Coordinates to High-Fidelity Spatial Transcriptomics via Privileged Multi-Scale Context Distillation"
+date: 2026-04-01 00:01:00 +0800
+selected: true
+pub: "Bioinformatics, 2026"
+pub_date: "2026"
+cover: /assets/images/covers/CPS.jpg
+authors:
+- Lei Zhang
+- Kai Cao
+- Shuqiao Zheng
+- Shu Liang
+- Lin Wan
+links:
+  Code: https://github.com/tju-zl/CPS
+---

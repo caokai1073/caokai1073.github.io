@@ -4,8 +4,6 @@ date: 2025-06-14 00:01:00 +0800
 selected: False
 pub: "Bioinformatics"
 pub_date: "2025"
-abstract: >-
-  A method for secure diagonal integration of multimodal single-cell data to avoid ambiguous mapping.
 cover: /assets/images/covers/SONATA.png
 authors:
 - Han Zhou

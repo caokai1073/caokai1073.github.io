@@ -41,14 +41,14 @@ education:
   date: Sep. 2013 - Jul. 2017
 
 experience:
-- name: Broad Institute of MIT and Harvard, United States
+- name: Broad Institute of MIT and Harvard
   logo: /assets/images/badges/Broad_logo.png
-  position: Postdoctoral Researcher
+  position: Postdoctoral Researcher, Eric and Wendy Schmidt Center
   date: Nov. 2022 - Present
 
 - name: University of Newcastle, Australia
   logo: /assets/images/badges/Newcastle_logo.png
-  position: Visiting Student
+  position: Visiting Student, Department of Electrical and Computer Engineering
   date: June 2016 - Sep. 2016
 
 # awards:

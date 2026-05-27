@@ -29,17 +29,6 @@ portrait_url: /assets/images/photos/portrait.jpg
 # portrait_caption: >-
 #   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
-education:
-- name: Chinese Academy of Sciences
-  logo: /assets/images/badges/CAS_logo.png
-  position: >- 
-    Ph.D. in System Science, Academy of Mathematics and Systems Science
-  date: Sep. 2017 - 2022
-- name: University of Science and Technology of China
-  logo: /assets/images/badges/USTC_logo.png
-  position: B.E. in Automation, School of Information Science and Technology
-  date: Sep. 2013 - Jul. 2017
-
 experience:
 - name: Broad Institute of MIT and Harvard
   logo: /assets/images/badges/Broad_logo.png
@@ -50,6 +39,17 @@ experience:
   logo: /assets/images/badges/Newcastle_logo.png
   position: Visiting Student, Department of Electrical and Computer Engineering
   date: June 2016 - Sep. 2016
+  
+education:
+- name: Chinese Academy of Sciences
+  logo: /assets/images/badges/CAS_logo.png
+  position: >- 
+    Ph.D. in System Science, Academy of Mathematics and Systems Science
+  date: Sep. 2017 - 2022
+- name: University of Science and Technology of China
+  logo: /assets/images/badges/USTC_logo.png
+  position: B.E. in Automation, School of Information Science and Technology
+  date: Sep. 2013 - Jul. 2017
 
 # awards:
 # - name: Award Name 2

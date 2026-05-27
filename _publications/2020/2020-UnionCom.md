@@ -4,7 +4,7 @@ date: 2020-07-13 00:01:00 +0800
 selected: true
 pub: "Bioinformatics (ISMB 2020)"
 pub_date: "2020"
-cover: /assets/images/covers/default.jpg
+cover: /assets/images/covers/UnionCom.png
 authors:
 - Kai Cao
 - Xiangqi Bai

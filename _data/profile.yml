@@ -1,11 +1,10 @@
-primary_name: "Your Name"
+primary_name: "Kai Cao"
 secondary_name: ""
-navbar_name: "Your Name"
+navbar_name: "Kai Cao"
 
 positions:
-- name: Title or Position
-- name: Affiliation Name
-  logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
+- name: Postdoc Fellow
+- name: Broad Institute of MIT and Harvard
 
 
 email: "your@email.com"

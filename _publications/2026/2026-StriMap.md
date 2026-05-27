@@ -1,6 +1,6 @@
 ---
 title: "A structure-informed deep learning framework for modeling TCR-peptide-HLA interactions"
-date: 2026-01-01 00:01:00 +0800
+date: 2026-03-31 00:01:00 +0800
 selected: true
 pub: "bioRxiv"
 pub_date: "2026"

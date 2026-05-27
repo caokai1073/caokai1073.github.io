@@ -1,6 +1,6 @@
 ---
 title: "scCausalVI disentangles single-cell perturbation responses with causality-aware generative model"
-date: 2025-01-01 00:01:00 +0800
+date: 2025-11-5 00:01:00 +0800
 selected: true
 pub: "Cell Systems"
 pub_date: "2025"
@@ -15,5 +15,5 @@ authors:
 - Martin Hemberg
 - Lin Wan
 links:
-  Code: ""
+  Paper: https://doi.org/10.1016/j.cels.2025.101443
 ---

@@ -4,7 +4,7 @@ date: 2025-08-22 00:01:00 +0800
 selected: true
 pub: "bioRxiv"
 pub_date: "2025"
-cover: /assets/images/covers/Glimmer.jpg
+cover: /assets/images/covers/Glimmer.png
 authors:
 - Qiyu Gong
 - Kai Cao

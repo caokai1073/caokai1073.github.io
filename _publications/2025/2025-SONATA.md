@@ -1,7 +1,7 @@
 ---
 title: "Securing diagonal integration of multimodal single-cell data against ambiguous mapping"
 date: 2025-06-14 00:01:00 +0800
-selected: true
+selected: False
 pub: "Bioinformatics"
 pub_date: "2025"
 abstract: >-

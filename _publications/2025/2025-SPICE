@@ -5,8 +5,8 @@ selected: true
 pub: "bioRxiv"
 pub_date: "2025"
 abstract: >-
-  A generative framework for designing cell type-specific RNA splicing elements for programmable gene regulation.
-cover: /assets/images/covers/default.jpg
+  We introduce SPICE, an integrated framework that couples large-scale splicing assays with generative design to uncover regulatory principles and design programmable, cell-specific gene expression for research and therapeutic applications.
+cover: /assets/images/covers/SPICE.png
 authors:
 - Xi Dawn Chen*
 - Maile Jim*

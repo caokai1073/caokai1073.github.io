@@ -8,8 +8,8 @@ pub_last: (ECCB oral presentation)
 cover: /assets/images/covers/Graspot.png
 authors:
 - Zizhan Gao
-- Kai Cao
-- Lin Wan
+- Kai Cao#
+- Lin Wan#
 links:
   Paper: https://doi.org/10.1093/bioinformatics/btae394
 ---

@@ -7,8 +7,8 @@ pub_last:       ' <span class="badge badge-pill badge-publication badge-success"
 pub_date: "2022"
 cover: /assets/images/covers/uniPort.png
 authors:
-- Kai Cao
-- Qiyu Gong
+- Kai Cao*
+- Qiyu Gong*
 - Yiguang Hong
 - Lin Wan
 links:

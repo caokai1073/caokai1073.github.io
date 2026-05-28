@@ -22,7 +22,8 @@ short_bio_text_justify: false
 short_bio: >-
   <p>
     I am a Postdoc Researcher at the Eric and Wendy Schmidt Center, Broad Institute of MIT and Harvard, working with Prof. Caroline Uhler and Prof. Ramnik Xavier. 
-    My research aims to bridge machine learning and biology, focusing on developing computational methods to tackle unresolved biological problems.
+    My research aims to bridge machine learning and biology, focusing on developing computational methods to tackle unresolved biological problems. 
+    Actively contributing to the academic community, I serve as a reviewer for journals such as Genome Research Advanced Science and PLOS Computational Biology, as well as top conferences such as ISMB and RECOMB.
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg

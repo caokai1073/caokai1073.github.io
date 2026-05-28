@@ -4,7 +4,7 @@ date: 2024-09-04 00:01:00 +0800
 selected: False
 pub: "Bioinformatics"
 pub_date: "2024"
-pub_last: (ECCB 2024)
+pub_last: (ECCB oral presentation)
 cover: /assets/images/covers/Graspot.png
 authors:
 - Zizhan Gao

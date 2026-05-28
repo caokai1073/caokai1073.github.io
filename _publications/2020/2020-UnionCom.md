@@ -4,7 +4,7 @@ date: 2020-07-13 00:01:00 +0800
 selected: False
 pub: "Bioinformatics"
 pub_date: "2020"
-pub_last: (ISMB 2020)
+pub_last: (ISMB oral presentation)
 cover: /assets/images/covers/UnionCom.png
 authors:
 - Kai Cao

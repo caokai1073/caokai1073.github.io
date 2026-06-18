@@ -18,5 +18,5 @@ authors:
 - Caroline Uhler
 - Ramnik Xavier
 links:
-  Paper: https://doi.org/10.64898/2026.03.31.715361
+  Paper: https://www.biorxiv.org/content/10.64898/2026.03.31.715361v1
 ---

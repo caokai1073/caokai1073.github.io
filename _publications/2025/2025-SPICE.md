@@ -25,5 +25,5 @@ authors:
 - Todd Golub
 - Fei Chen
 links:
-  Paper: "https://doi.org/10.1101/2025.11.05.686847"
+  Paper: https://www.biorxiv.org/content/10.1101/2025.11.05.686847
 ---

@@ -13,5 +13,5 @@ authors:
 - Martin Hemberg
 - Lin Wan
 links:
-  Paper: https://doi.org/10.1016/j.cels.2025.101443
+  Paper: https://www.cell.com/cell-systems/abstract/S2405-4712(25)00276-5
 ---

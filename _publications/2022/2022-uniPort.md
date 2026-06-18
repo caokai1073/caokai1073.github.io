@@ -12,5 +12,5 @@ authors:
 - Yiguang Hong
 - Lin Wan
 links:
-  Paper: https://doi.org/10.1038/s41467-022-35094-8
+  Paper: https://www.nature.com/articles/s41467-022-35094-8
 ---

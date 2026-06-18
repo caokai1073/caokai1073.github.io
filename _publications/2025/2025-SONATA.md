@@ -10,5 +10,5 @@ authors:
 - Kai Cao
 - Yang Lu
 links:
-  Paper: https://doi.org/10.1093/bioinformatics/btaf345
+  Paper: https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btaf345
 ---

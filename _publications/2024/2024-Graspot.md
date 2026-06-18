@@ -11,5 +11,5 @@ authors:
 - Kai Cao#
 - Lin Wan#
 links:
-  Paper: https://doi.org/10.1093/bioinformatics/btae394
+  Paper: https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btae394
 ---

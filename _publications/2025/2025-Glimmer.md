@@ -13,5 +13,5 @@ authors:
 - Dongshunyi Li
 - Fei Chen
 links:
-  Paper: https://doi.org/10.1101/2025.08.22.671846
+  Paper: https://www.biorxiv.org/content/10.1101/2025.08.22.671846
 ---

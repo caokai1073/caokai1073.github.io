@@ -11,6 +11,7 @@ authors:
 - Xiangqi Bai
 - Yiguang Hong
 - Lin Wan
+semantic_scholar_id: 1292ac6a3ec3eef1e92f176720d994c1f01a996e
 links:
   Paper: https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btaa443
 ---

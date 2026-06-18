@@ -31,9 +31,11 @@ let showSemanticScholarCitationCount = () => {
         if (cachedData) {
             const { citationCount } = JSON.parse(cachedData);
             const elements = document.querySelectorAll(`[data-semantic-scholar-id="${id}"]`);
-            elements.forEach(element => {
-                element.innerHTML = `<a class="badge badge-pill badge-publication badge-info" href="https://www.semanticscholar.org/paper/${id}" target="_blank"><i class="ai ai-semantic-scholar"></i> ${parseInt(citationCount).toLocaleString()} citations</a>`;
-            });
+            if (parseInt(citationCount) >= 100) {
+                elements.forEach(element => {
+                    element.innerHTML = `<a class="badge badge-pill badge-publication badge-info" href="https://www.semanticscholar.org/paper/${id}" target="_blank"><i class="ai ai-semantic-scholar"></i> ${parseInt(citationCount).toLocaleString()} citations</a>`;
+                });
+            }
         }
     });
 };

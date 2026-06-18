@@ -21,9 +21,9 @@ linkedin: kai-cao-157a9015b
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I am a Postdoc Researcher at the Eric and Wendy Schmidt Center, Broad Institute of MIT and Harvard, working with Prof. Caroline Uhler and Prof. Ramnik Xavier. 
-    My research aims to bridge machine learning and biology, focusing on developing computational methods to tackle unresolved biological problems, with particular interests in multimodal data integration, spatial omics, immune recognition, and RNA splicing. 
-    Actively contributing to the academic community, I serve as a reviewer for journals such as Genome Research, Advanced Science and PLOS Computational Biology, as well as top conferences such as ISMB and RECOMB.
+    I am a Postdoctoral Researcher at the Eric and Wendy Schmidt Center, Broad Institute of MIT and Harvard, working with Prof. Caroline Uhler and Prof. Ramnik Xavier.
+    My research focuses on understanding and engineering cells at scale — developing computational methods to characterize cellular identity from multimodal data, map cells in their spatial context, and model or redesign their molecular programs.
+    I am particularly interested in applications to immune recognition and programmable gene regulation.
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg

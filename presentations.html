@@ -1,0 +1,34 @@
+---
+layout: default
+title: Presentations
+navbar_title: Presentations
+---
+
+{% assign presentations_by_year = site.presentations | sort: "date" | reverse | group_by_exp: "item", "item.date | date: '%Y'" %}
+
+<div class="row">
+    <div class="col-12 col-lg-10">
+        {% for year in presentations_by_year %}
+        <h2 class="pt-4" id="year-{{ year.name }}">{{ year.name }}</h2>
+        <div class="my-0 p-0 bg-white shadow-sm rounded-xl">
+            {% for item in year.items %}
+            <div class="p-3 {% unless forloop.last %}border-bottom border-gray{% endunless %}">
+                <div class="d-flex align-items-start">
+                    <div>
+                        <i class="fas fa-chalkboard-teacher text-muted mr-2"></i>
+                        <strong>{{ item.title }}</strong>
+                        <span class="text-muted ml-2">— {{ item.venue }}</span>
+                        {% if item.video_url %}
+                        <a href="{{ item.video_url }}" target="_blank" class="ml-2">
+                            Watch video <i class="fas fa-angle-double-right"></i>
+                        </a>
+                        {% endif %}
+                    </div>
+                    <div class="ml-auto text-muted no-break"><i>{{ item.date | date: "%b %d, %Y" }}</i></div>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+        {% endfor %}
+    </div>
+</div>

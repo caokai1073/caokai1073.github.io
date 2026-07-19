@@ -14,4 +14,5 @@ authors:
 - Lin Wan
 links:
   Paper: https://www.cell.com/cell-systems/abstract/S2405-4712(25)00276-5
+  Code: https://github.com/ShaokunAn/scCausalVI
 ---

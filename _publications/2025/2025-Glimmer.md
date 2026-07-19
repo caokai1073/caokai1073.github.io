@@ -14,4 +14,5 @@ authors:
 - Fei Chen
 links:
   Paper: https://www.biorxiv.org/content/10.1101/2025.08.22.671846
+  Code: https://github.com/thechenlab/Glimmer
 ---

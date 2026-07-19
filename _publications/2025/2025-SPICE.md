@@ -26,4 +26,5 @@ authors:
 - Fei Chen
 links:
   Paper: https://www.biorxiv.org/content/10.1101/2025.11.05.686847
+  Code: https://github.com/caokai1073/SPICE-ML
 ---

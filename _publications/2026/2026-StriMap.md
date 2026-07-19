@@ -19,4 +19,5 @@ authors:
 - Ramnik Xavier
 links:
   Paper: https://www.biorxiv.org/content/10.64898/2026.03.31.715361v1
+  Code: https://github.com/uhlerlab/strimap-tools
 ---

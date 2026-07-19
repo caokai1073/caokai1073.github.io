@@ -12,4 +12,5 @@ authors:
 semantic_scholar_id: 33ab9fda1b364c3958a7ac43ae02e15b028f1bb2
 links:
   Paper: https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btab594
+  Code: https://github.com/caokai1073/Pamona
 ---

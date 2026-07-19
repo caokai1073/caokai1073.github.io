@@ -11,4 +11,5 @@ authors:
 - Yang Lu
 links:
   Paper: https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btaf345
+  Code: https://github.com/batmen-lab/SONATA
 ---

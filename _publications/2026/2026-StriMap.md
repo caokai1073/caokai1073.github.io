@@ -2,8 +2,9 @@
 title: "A structure-informed deep learning framework for modeling TCR-peptide-HLA interactions"
 date: 2026-03-31 00:01:00 +0800
 selected: true
-pub: "bioRxiv"
+pub: "Nature Communications"
 pub_date: "2026"
+pub_last: (accepted in principle)
 cover: /assets/images/covers/StriMap.png
 authors:
 - Kai Cao

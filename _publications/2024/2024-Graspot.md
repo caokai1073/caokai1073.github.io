@@ -1,7 +1,7 @@
 ---
 title: "Graspot: A graph attention network for spatial transcriptomics data integration with optimal transport"
 date: 2024-09-04 00:01:00 +0800
-selected: False
+selected: true
 pub: "Bioinformatics"
 pub_date: "2024"
 pub_last: (ECCB oral presentation)

@@ -1,7 +1,7 @@
 ---
 title: "Unsupervised Topological Alignment for Single-Cell Multi-Omics Integration"
 date: 2020-07-13 00:01:00 +0800
-selected: False
+selected: true
 pub: "Bioinformatics"
 pub_date: "2020"
 pub_last: (ISMB oral presentation)

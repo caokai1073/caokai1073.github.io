@@ -1,7 +1,7 @@
 ---
 title: "Manifold alignment for heterogeneous single-cell multi-omics data integration using Pamona"
 date: 2021-08-16 00:01:00 +0800
-selected: False
+selected: true
 pub: "Bioinformatics"
 pub_date: "2021"
 cover: /assets/images/covers/Pamona.png

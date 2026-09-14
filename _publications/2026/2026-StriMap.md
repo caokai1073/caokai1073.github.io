@@ -4,7 +4,7 @@ date: 2026-03-31 00:01:00 +0800
 selected: true
 pub: "Nature Communications"
 pub_date: "2026"
-pub_last: (accepted in principle)
+pub_last: (accepted)
 cover: /assets/images/covers/StriMap.png
 authors:
 - Kai Cao

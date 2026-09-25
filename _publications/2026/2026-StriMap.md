@@ -4,7 +4,6 @@ date: 2026-03-31 00:01:00 +0800
 selected: true
 pub: "Nature Communications"
 pub_date: "2026"
-pub_last: (accepted)
 cover: /assets/images/covers/StriMap.png
 authors:
 - Kai Cao
@@ -19,6 +18,6 @@ authors:
 - Caroline Uhler
 - Ramnik Xavier
 links:
-  Paper: https://www.biorxiv.org/content/10.64898/2026.03.31.715361v1
+  Paper: https://www.nature.com/articles/s41467-026-78063-1
   Code: https://github.com/uhlerlab/strimap-tools
 ---
